@@ -1,0 +1,5 @@
+{
+    "template_name": "my-template",
+    "file_name": "{{cookiecutter.template_name}}",
+    "description": "A description of the template"
+}

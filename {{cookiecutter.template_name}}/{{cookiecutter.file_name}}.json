@@ -1,0 +1,12 @@
+{
+  "kind": "Template",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "{{cookiecutter.template_name}}",
+    "annotations": {
+      "description": "{{cookiecutter.description}}",
+      "tags": "quickstart",
+      "iconClass": "icon-nodejs"
+    }
+  }
+}
