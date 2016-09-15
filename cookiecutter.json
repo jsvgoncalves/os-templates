@@ -1,5 +1,9 @@
 {
     "template_name": "my-template",
     "file_name": "{{cookiecutter.template_name}}",
-    "description": "A description of the template"
+    "description": "A description of the template",
+    "memory_limit": "512Mi",
+    "volume_capacity": "1Gi",
+    "source_repo": "https://github.com/user/repo.git",
+    "git_reference": "master"
 }
