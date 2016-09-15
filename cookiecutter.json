@@ -5,5 +5,10 @@
     "memory_limit": "512Mi",
     "volume_capacity": "1Gi",
     "source_repo": "https://github.com/user/repo.git",
-    "git_reference": "master"
+    "git_reference": "master",
+    "port": 8080,
+    "api_version": "v1",
+    "image": "python:2.7",
+    "livenessProbePath": "/",
+    "readinessProbePath": "/"
 }
